@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Kumar
-- 👀 I’m interested in new tech challenges.
+- 👀 Interested in new tech challenges.
 - 🌱 I’m currently learning some new Golang frameworks, German(language).
-- 📫 How to reach me ...dk40588@gmail.com
+- 📫 dk40588@gmail.com  Mob- +91-8449231973
 
 <!---
 Deepak1124/Deepak1124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
