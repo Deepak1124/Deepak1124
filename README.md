@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Kumar
 - 👀 Interested in new tech challenges.
-- 🌱 I’m currently learning some new Golang frameworks, German(language).
+- 🌱 I’m currently learning some new Golang frameworks.
 - 📫 dk40588@gmail.com  Mob- +91-8449231973
 
 <!---
